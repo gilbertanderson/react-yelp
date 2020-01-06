@@ -3,6 +3,7 @@
   flex-direction: column;
   justify-content: center;
   background-image: url("./background_search_desktop.jpg");
+  background-color: gray;
   background-size: cover;
   background-repeat: no-repeat;
   height: 25rem;
@@ -78,6 +79,7 @@
 @media only screen and (max-width: 560px) {
   .SearchBar {
     background-image: url("./background_search_mobile.jpg");
+    background-color: gray;
   }
 
   .SearchBar-sort-options ul {
