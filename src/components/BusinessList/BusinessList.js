@@ -12,6 +12,8 @@ class BusinessList extends Component {
         <Business />
         <Business />
         <Business />
+        <Business />
+        <Business />
       </div>
     );
   }
